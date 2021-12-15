@@ -1,2 +1,11 @@
-package PACKAGE_NAME;public class ZAGLUSHKA {
+public class ZAGLUSHKA {
+
+    /*
+    Урок 3. Автоматизированное тестирование REST API с использованием rest-assured
+    Работа с imgur API [https://www.postman.com/explore/collection/131/imgur-api](http://).
+    1. Автоматизируйте тестирование для Images (минимум 10 кейсов), используя rest-assured.
+    2. Воспользуйтесь кейсами, которые вы написали в ПЗ №2, и перенесите всю логику из постман-коллекции в код.
+    3. Сдайте ссылку на репозиторий с указанием ветки с кодом.
+     */
+
 }
