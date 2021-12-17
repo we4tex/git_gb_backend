@@ -1,2 +1,16 @@
-package lesson4;public class HW {
+package lesson4;
+
+public class HW {
+
+    public static void main(String[] args) {
+
+        System.out.println("Урок 4. Расширенные возможности rest-assured\n" +
+                "Работа с Imgur API [https://www.postman.com/explore/collection/131/imgur-api](http://).\n" +
+                "1. Отрефакторьте код проверок и добавьте дополнительные (если потребуется) для эндпоинтов работы с image, используя rest-assured\n" +
+                "2. Воспользуйтесь кейсами, которые написали в ПЗ №2–3, перенеся всю логину из постман-коллекции в код.\n" +
+                "3. Сдайте ссылку на репозиторий с указанием ветки с кодом.\n" +
+                "Главный критерий для проверки — отсутствие хардкода в коде тестов.");
+
+    }
+
 }
